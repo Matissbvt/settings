@@ -23,3 +23,4 @@ Here is all my extensions for VScode adn be more productive or just make my edit
 - VSCode Animations
 - Windows Terminal Integration
 - Custom UI Style
+- Rainbow CSV
