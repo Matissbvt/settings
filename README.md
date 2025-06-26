@@ -7,7 +7,6 @@ Here is all my extensions for VScode adn be more productive or just make my edit
 - French language pack for Visual Studio Code
 - Github Copilot
 - Github Copilot Chat
-- GlassIt-VSC
 - HTML CSS Support
 - IntelliCode
 - IntelliCode API Usage Examples
@@ -15,12 +14,11 @@ Here is all my extensions for VScode adn be more productive or just make my edit
 - Live server
 - Markdown Preview Github Styling
 - markdownlint
-- Material Icon Theme
+- Bearded Icons
 - Pylance
 - Python
 - Python Debugger
-- ReUI
-- VSCode Animations
+- Gemini Dark
 - Windows Terminal Integration
-- Custom UI Style
+- CSS Peek
 - Rainbow CSV
