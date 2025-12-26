@@ -36,6 +36,8 @@
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontWeight": "400",
     "editor.fontLigatures": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorWidth": 5,
     "editor.lineHeight": 22,
     "editor.fontSize": 15,
     "workbench.iconTheme": "material-icon-theme",
